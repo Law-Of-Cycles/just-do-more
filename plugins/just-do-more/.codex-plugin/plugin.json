@@ -1,0 +1,36 @@
+{
+  "name": "just-do-more",
+  "version": "0.1.0",
+  "description": "A sharp pre-answer reflection plugin that helps Codex avoid generic first answers on judgment-heavy tasks.",
+  "author": {
+    "name": "Law-Of-Cycles"
+  },
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "skill",
+    "plugin",
+    "prompting",
+    "metacognition"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Just Do More",
+    "shortDescription": "Stop generic first answers before they lock in.",
+    "longDescription": "A lightweight reflection layer for advice, analysis, diagnosis, explanation, and problem solving. Just Do More forces one brief internal pause before Codex answers so it can identify the user's real intent, define the bar for an excellent answer, and challenge the most dangerous assumption in its first instinct.",
+    "developerName": "Law-Of-Cycles",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use Just Do More on this decision.",
+      "Answer this open-ended question with sharper judgment.",
+      "Apply Just Do More before diagnosing this problem."
+    ],
+    "brandColor": "#0F172A",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.svg"
+  }
+}

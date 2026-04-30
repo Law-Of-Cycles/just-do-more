@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Just Do More logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0F1D"/>
+      <stop offset="100%" stop-color="#162136"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="30" fill="url(#bg)"/>
+  <path d="M886 22h48L768 298h-48z" fill="url(#amber)"/>
+
+  <g fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-weight="900">
+    <text x="66" y="136" font-size="74" letter-spacing="4">JUST</text>
+    <text x="64" y="248" font-size="122" letter-spacing="4">DO MORE</text>
+  </g>
+
+  <text x="66" y="290" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="2">
+    STOP THE FIRST BLAND ANSWER BEFORE IT LOCKS IN
+  </text>
+</svg>

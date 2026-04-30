@@ -1,0 +1,5 @@
+skill.zip
+dist/
+.DS_Store
+.codex
+.claude/settings.local.json

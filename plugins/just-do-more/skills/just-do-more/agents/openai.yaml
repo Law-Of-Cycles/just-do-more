@@ -1,0 +1,7 @@
+interface:
+  display_name: "Just Do More"
+  short_description: "Stop generic first answers on advice, decisions, analysis, diagnosis, and open-ended problem solving."
+  brand_color: "#0F172A"
+  default_prompt: "Use Just Do More before answering a substantive, judgment-heavy question."
+policy:
+  allow_implicit_invocation: true
